@@ -11,7 +11,7 @@
 
 
 <p>
-Sou desenvolvedor de Software como foco em desenvolvimento Back-End.
+Sou desenvolvedor de Software com foco em desenvolvimento Back-End.
 
 Iniciei meus estudos em tecnologia focando em desenvolvimento desde 2023, nesse tempo cheguei concluir minha graduação em Análise e Desenvolvimento de Sistemas, realizar bastantes projetos pessoais e em grupos e iniciar uma graduação em Ciência da Computação, venho aprendendo bastante e gostando bastante do processo. 
   
@@ -19,7 +19,7 @@ Iniciei meus estudos em tecnologia focando em desenvolvimento desde 2023, nesse 
 
 * Minha linguagem predominante é Java.
 * Gosto bastante de aprender
-* Consigo atuar em projeto feitos com JavaEE e também com projetos feitos usando Spring Boot.
+* Consigo atuar em projetos feitos com JavaEE e também com projetos feitos usando Spring Boot.
 
 ###   🛠️ Tecnologias
 
