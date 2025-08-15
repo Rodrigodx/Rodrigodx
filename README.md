@@ -32,13 +32,19 @@ Iniciei meus estudos em tecnologia focando em desenvolvimento desde 2023, nesse 
 
 
 ###  📈 Meus status do GitHub
-
+  
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigodx&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Rodrigo github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodx&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-###   📕 Principais Repositórios
-
+  
+###   📕 Principais Repositórios  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigodx&repo=LovePets&theme=graywhite)](https://github.com/rodrigodx/LovePets)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigodx&repo=FlexMobilidade&theme=graywhite)](https://github.com/rodrigodx/FlexMobilidade)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigodx&repo=CadastroCliente&theme=graywhite)](https://github.com/rodrigodx/CadastroCliente)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rodrigodx&repo=CadastroEmpresa&theme=graywhite)](https://github.com/rodrigodx/CadastroEmpresa)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rodrigodx/Rodrigodx/output/snake.svg" alt="Snake animation" />
+  
+</div>
+
