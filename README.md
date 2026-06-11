@@ -26,7 +26,6 @@ Iniciei meus estudos em tecnologia focando em desenvolvimento desde 2023, nesse 
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=FFA518)&nbsp;
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=Spring)&nbsp;
-  ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
   ![MySQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
